@@ -1,0 +1,45 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Lobster", cursive;
+}
+h1 {
+    color: #534000;
+}
+h2 {
+    color: #9f8574;
+}
+
+header h2 {
+    color: rgb(255, 196, 0);
+}
+
+.site-footer{
+    background-image: linear-gradient(rgb(31, 20, 6), rgb(255, 255, 255));
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255) , rgb(68, 28, 6));
+    color: rgb(109, 29, 29);
+    margin: 0;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: rgb(100, 62, 6);
+    color: rgb(119, 14, 14);
+}
+.carousel-caption {
+    background-color: rgba(44, 0, 0, 0.5);
+}
+
+
